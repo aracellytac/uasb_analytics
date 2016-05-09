@@ -1,4 +1,3 @@
-
 **DESCRIPCIÓN**
 
 Este dataset contiene información acerca del rendimiento de estudiantes de educación secundaria de dos escuelas portuguesas. Los datos incluyen las calificaciones del estudiante y otras características sociales y demográficas. Toda la información se recolectó mediante el uso de informes de la escuela y cuestionarios. El conjunto de datos se proporcionan con respecto al rendimiento en en el área de Matemáticas.
@@ -38,3 +37,5 @@ health - Estado de salud actual (de 1 - muy bajo a 5 - muy alto)
 - G1 - Calificación del primer período del año escolar (de 0 a 20)
 - G2 - Calificación del segundo período  del año escolar (de 0 a 20)
 - G3 - Calificación final del año escolar (de 0 a 20)
+- Prom - Promedio de las calificaciones del año escolar (de 0 a 20)
+- Performance - Rendimiento en base a las calificaciones ( malo regular bueno excelente) 
