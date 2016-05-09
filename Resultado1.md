@@ -1,9 +1,8 @@
-
 **Objetivo**
 
-Encontrar la relacion del rendimiento del estudiante y el estado de convivencia de sus padres.
+Comparar el rendimiento de los estudiantes en ambas escuelas
 
 **Grafico**
-
+![enter image description here](https://github.com/aracellytac/uasb_analytics/blob/master/proceso1.png)
 
 **Conclusion**
